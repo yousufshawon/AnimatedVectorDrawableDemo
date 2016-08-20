@@ -1,5 +1,5 @@
 # AnimatedVectorDrawableDemo
-Android does not support SVGs (Scalable Vector Graphics) directly, Lollipop introduced new class called VectorDrawable, AnimatedVectorDrawable which allows to draw assets and animation in a similar fashion using only code.Later VectorDrawable and AnimatedVectorDrawable is available from Support Library 23.2. This Android app implements animation using Animated Vector Drawable support library.
+Android does not support SVGs (Scalable Vector Graphics) directly, Lollipop introduced new class called <a href="https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html"> VectorDrawable</a>, <a href="https://developer.android.com/reference/android/graphics/drawable/AnimatedVectorDrawable.html"> AnimatedVectorDrawable</a>  which allows to draw assets and animation in a similar fashion using only code.Later VectorDrawable and AnimatedVectorDrawable is <a href="http://android-developers.blogspot.com/2016/02/android-support-library-232.html">available from Support Library 23.2</a> . This Android app implements animation using Animated Vector Drawable support library.
 
 <br/>
 <br/>
